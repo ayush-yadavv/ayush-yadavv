@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ayush-yadavv
 - 👀 I’m interested in coding and programming.
-- 📚 I'm curently pursuing B.Tech. from - GCET, Greater Noida. 
+- 📚 I'm curently pursuing B.Tech(IT) from - Galgotia college of engineering(GCET), Greater Noida. 
 - 🌱 I’m currently learning Native Android Devolopment (Kotlin) and DSA.
 
 <!---
