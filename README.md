@@ -1,5 +1,4 @@
-<h2 align="left">Hi 👋! My name is Ayush Yadav and I'm a Mobile Application Developer 📱</h2>
-<! - 💼 Currently, I'm a Cloud Executive Team member at Google DSC GCET, where I'm diving deep into the world of cloud computing. 
+<h2 align="left">Hi 👋! My name is Ayush Yadav and I'm a Software Developer 📱</h2>
 - 🚀 Certified in various cloud technologies, my skills include Gitlab, GenAI, CI/CD, Flutter, and more, making me well-prepared to tackle complex challenges and drive innovation in the cloud industry. 
 - 🤝 Additionally, I'm an active Technical Team Member at GFG Student Chapter- GCET and Fusion Society , working on exciting technical projects. 
 - 🌐 I'm a strong advocate for open source, and I've contributed to projects like Hacktoberfest & Social Summer Of Code. 
