@@ -17,8 +17,8 @@
 
 - 🌱 Currently learning **Generative AI & DevOps**
 - 💬 Ask me about **Generative AI, Backend, Cloud & Automation**
-- 📝 I regularly write articles at **[ayushyadav.live/blog](https://ayushyadav.live/blog)**
-- 👨‍💻 All my projects: **[ayushyadav.live](https://ayushyadav.live)**
+- 📝 I regularly write articles at **[ay7.me/blog](https://ay7.me/blog)**
+- 👨‍💻 All my projects: **[ay7.me](https://ay7.me)**
 - 📫 Reach me at **yadav.ayushx1@gmail.com**
 - ⚡ Fun fact: *I think I am Batman 🦇*
 
